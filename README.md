@@ -1,8 +1,2 @@
-// Archive when I was working with HTML, and CSS
-
-- 👋 Hi, I’m @youknowicexy 
-- 👀 I’m interested in programming, music, photography
-- 🌱 I’m currently learning js and trying to improve on web base programming.
-
-
-- This is my website.
+## youknowicexy
+This is a portfolio website built using HTML, CSS, and JS whilst I was still learning web development. The website is <a href="portfolio-youknowicexy.vercel.app">here</a>!
